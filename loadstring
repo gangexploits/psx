@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/gangexploits/psx/main/psx.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gangexploits/psx/main/psx.lua"))();
